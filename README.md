@@ -42,13 +42,15 @@ This is an enhanced version of the classic Snake game where you control a snake 
 
 
 
-!\[Paused Game](screenshots/paused.png)
+!\[Paused Game](<img width="1919" height="1023" alt="paused" src="https://github.com/user-attachments/assets/0385fc59-2cc0-41d7-aa04-05d321e1c5d1" />
+)
 
 
 
 \### Game Over
 
-!\[Game Over](screenshots/gameover.png)
+!\[Game Over](<img width="1916" height="1013" alt="gameover" src="https://github.com/user-attachments/assets/dc66332c-4add-4388-88ea-85fc41b6d659" />
+)
 
 
 
