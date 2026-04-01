@@ -239,6 +239,7 @@ screen.onkey(left,"Left")
 screen.onkey(right,"Right")
 screen.onkey(toggle_pause,"space")
 screen.onkey(reset_game,"r")
+screen.onkey(reset_game, "R")
 
 # start
 draw_border()
